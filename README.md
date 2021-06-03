@@ -11,7 +11,7 @@ will validate them according to the real Calendar.
 
 Let's have a look at our Date Input.
 
-![](demo.gif)
+![](demo.gif | width=40%,height=40%) 
 
 
 by pressing continue it will show an alert with given data.

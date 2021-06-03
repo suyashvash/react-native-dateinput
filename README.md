@@ -11,7 +11,7 @@ will validate them according to the real Calendar.
 
 Let's have a look at our Date Input.
 
-<img src="demo.gif" width="40%" height="40%" />
+<img src="demo.gif" width="30%" height="30%" />
 
 by pressing continue it will show an alert with given data.
 
